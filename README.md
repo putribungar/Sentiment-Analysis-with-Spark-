@@ -27,6 +27,6 @@ Outline from this program is :
 - Modelling :
   In Modelling I do : <br>
   - Create data sampling <br>
-                      - Train test splut <br>
-                      - Bag of word Count Vectorizer <br>
-                      - Finding TF-IDF <br>
+  - Train test splut <br>
+  - Bag of word Count Vectorizer <br>
+  - Finding TF-IDF <br>
