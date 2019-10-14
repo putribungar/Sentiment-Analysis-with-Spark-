@@ -30,3 +30,5 @@ Outline from this program is :
   - Train test splut <br>
   - Bag of word Count Vectorizer <br>
   - Finding TF-IDF <br>
+
+You can download dataset in link https://drive.google.com/open?id=1q0MyZQphW-XN1WeJTkXPw1AQAKfdT5oI
